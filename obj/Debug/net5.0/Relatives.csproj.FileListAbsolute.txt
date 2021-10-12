@@ -1,0 +1,16 @@
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.exe
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.deps.json
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.runtimeconfig.json
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.runtimeconfig.dev.json
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.dll
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\ref\Relatives.dll
+C:\Users\Nick Petrenko\source\repos\Relatives\bin\Debug\net5.0\Relatives.pdb
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.csproj.AssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.AssemblyInfoInputs.cache
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.AssemblyInfo.cs
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.dll
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\ref\Relatives.dll
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.pdb
+C:\Users\Nick Petrenko\source\repos\Relatives\obj\Debug\net5.0\Relatives.genruntimeconfig.cache
